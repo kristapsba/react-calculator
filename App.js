@@ -154,4 +154,3 @@ function App() {
 }
 
 export default App;
-onClick={() => dispatch({ type: ACTIONS.CLEAR})}
